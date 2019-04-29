@@ -1,4 +1,4 @@
-# xml-converter
+# Easy Recipe Wordpress plugin XML Converter
 Converts Wordpress Easy Recipe plugin data to ACF fields data
 
 Convertion goes by fetching Wordpress rest api and printing the data on a browser page and then copying the data to a xml file
