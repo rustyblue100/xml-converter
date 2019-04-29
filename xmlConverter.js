@@ -1,5 +1,5 @@
 fetch(
-  "https://boblechef.com/wp-json/wp/v2/posts?_embed&per_page=6&page=1&categories=27",
+  "https://website-address.com/wp-json/wp/v2/posts?_embed&per_page=6&page=1&categories=27",
   //"blc.json",
   {
     method: "GET"
