@@ -1,6 +1,6 @@
 fetch(
-  //"https://boblechef.com/wp-json/wp/v2/posts?_embed&categories=24,22,11,28,16,1,12,537,521,530,563,29,33,14&per_page=100&page=14&categories_exclude=27,466",
-  //"https://boblechef.com/wp-json/wp/v2/categories?per_page=100&page=1&exclude=466,27",
+  //"https://website-address.com//wp-json/wp/v2/posts?_embed&categories=24,22,11,28,16,1,12,537,521,530,563,29,33,14&per_page=100&page=14&categories_exclude=27,466",
+  //"https://website-address.com/wp-json/wp/v2/categories?per_page=100&page=1&exclude=466,27",
   //"blc-posts.json",
   {
     method: "GET"
